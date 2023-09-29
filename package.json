@@ -1,0 +1,15 @@
+{
+  "name": "goiteensjsadvl16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel *.html", "build": "parcel build src/*.html public-url/fe 1y_3/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
